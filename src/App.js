@@ -3,11 +3,11 @@ import Book from "./components/Book"
 const App = () => {
     return (
         <div>
-            <Book></Book>
-            <Book></Book>
-            <Book></Book>
-            <Book></Book>
-            <Book></Book>
+            <Book />
+            <Book />
+            <Book />
+            <Book />
+            <Book />
         </div>
     )
 }
