@@ -1,4 +1,15 @@
+.one-book {
+    width: 300px;
+}
+img {
+    width: 106px;
+    height: 160px;
+}
+p{
+    padding-left: 10px;
+}
+
 .main-heading {
     font-size: 25px;
-    color: grey;
+    color: #6c6c6c;
 }
