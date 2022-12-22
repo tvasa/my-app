@@ -1,15 +1,18 @@
 .one-book {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
     width: 300px;
+    
 }
-img {
+  img {
     width: 106px;
     height: 160px;
-}
-p{
-    padding-left: 10px;
-}
+} 
+
 
 .main-heading {
     font-size: 25px;
-    color: #6c6c6c;
+    color: #6c6c6c;  
 }
